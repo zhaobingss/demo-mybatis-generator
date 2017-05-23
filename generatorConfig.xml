@@ -13,7 +13,7 @@
 		
 		<!--数据库链接地址账号密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://139.196.210.136:3306/flight_taobao" 
+			connectionURL="jdbc:mysql://127.0.0.1:3306/flight_taobao" 
 			userId="jipiao668"
 			password="!@#jipiao">
 		</jdbcConnection>
